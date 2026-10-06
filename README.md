@@ -19,8 +19,7 @@ profit, orders, products, categories, cities, and payment methods.
 - Profit Margin: 20%
 
 ## Dashboard
-
-![E-Commerce Sales Analysis Dashboard](Dashboard.png)
+![E-Commerce Sales Analysis Dashboard](./Dashboard.png)
 
 ## Key Insights
 - Electronics generated the highest profit.
